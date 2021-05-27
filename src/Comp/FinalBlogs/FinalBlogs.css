@@ -1,0 +1,135 @@
+.container {
+    display: inline-block;
+    box-shadow: 0 1px 20px 0 rgba(39, 36, 36, 0.15);
+    margin-left: 132px;
+    margin-top: 78px;
+    position: relative;
+    width: 900px;
+    height:880px;
+    margin-bottom: 50px;
+    background-color: teal;
+    transition: all .2s ease-in-out;
+
+  }
+h4 {
+     padding: 13px;
+}
+  
+  .slider-1 {
+    width: 816px;
+    margin-top: 23px;
+    margin-left: 48px;
+  }
+  .slider-2 {
+    width: 805px;
+    margin-left: 48px;
+    margin-top: 11px;
+
+}
+   
+ 
+
+ .img-1 {
+    width: 98%;
+    height: 400px
+ }
+
+
+ .container1 {
+    display: inline-block;
+    box-shadow: 0 1px 20px 0 rgb(39 36 36 / 15%);
+    position: absolute;
+    top: 0;
+    left: 104%;
+    width: 648px;
+    height: 510px;
+    margin-bottom: 50px;
+    /* background-color: aqua; */
+    transition: all .2s ease-in-out;
+  }
+
+  h2{
+    padding: 13px;
+    
+    color:white;
+    background-color: #00bfff;
+  }
+
+  .articleCard-1 {
+    display: inline-block;
+    box-shadow: 0 1px 20px 0 rgb(39 36 36 / 15%);
+    /* position: absolute; */
+    position: relative;
+    top: 20px;
+    left: 4%;
+    width: 600px;
+    height: 80px;
+    margin-bottom: 50px;
+   
+    transition: all .2s ease-in-out;
+    border-radius: 18px;
+  }
+  img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+
+  .articleCard-2 {
+    display: inline-block;
+    box-shadow: 0 1px 20px 0 rgb(39 36 36 / 15%);
+    /* position: absolute; */
+    position: relative;
+    border-radius: 18px;
+    top: -8px;
+    left: 4%;
+    width: 600px;
+    height: 80px;
+    margin-bottom: 50px;
+   
+    transition: all .2s ease-in-out;
+  }
+
+  .articleCard-3 {
+    display: inline-block;
+    box-shadow: 0 1px 20px 0 rgb(39 36 36 / 15%);
+    /* position: absolute; */
+    position: relative;
+    top: -30px;
+    border-radius: 18px;
+    left: 4%;
+    width: 600px;
+    height: 80px;
+    margin-bottom: 50px;
+   
+    transition: all .2s ease-in-out;
+  }
+
+
+
+.articleCard-4 {
+    display: inline-block;
+    box-shadow: 0 1px 20px 0 rgb(39 36 36 / 15%);
+    /* position: absolute; */
+    position: relative;
+    top: -58px;
+    left: 4%;
+    width: 600px;
+    height: 80px;
+    margin-bottom: 50px;
+    border-radius: 18px;
+  
+    transition: all .2s ease-in-out;
+}
+
+
+
+h3 {
+    margin: 37px;
+}
+
+
+
+
+
+

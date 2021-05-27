@@ -1,0 +1,6 @@
+// "url1": "https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI",
+// "url2":"https://picsum.photos/200/300/?blur=2",
+// "url3":"https://picsum.photos/200/300?grayscale ",
+// "url4":"https://picsum.photos/200/300?grayscale",
+// "data1" : "Zomato delievery boy hits the girl fgdfgdgdgdfgdg ",
+// "card" : "latest news will updated as soon as possible . Indian Economy gradually decrease due to covid-19 ",
